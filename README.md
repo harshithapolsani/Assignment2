@@ -12,7 +12,7 @@
 
 **In the second question:**
 
-![Alt text](Que3.png)
+![Alt text](file_read_output.png)
 - I am taking the sentence from the console using input() and using replace function. The first argument should be
   the value that should be replaced and the second argument in the replace function should be the value that  replaces
   the first argument.
